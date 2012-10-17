@@ -13,6 +13,7 @@ namespace Download
         [STAThread]
         static void Main()
         {
+			///This is a test comment
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
